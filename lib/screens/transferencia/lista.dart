@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'formulario.dart';
 
-const _tituloAppBar = 'Transferẽncia';
+const _tituloAppBar = 'Transferência';
 
 
 class ListaTransferencias extends StatefulWidget {
